@@ -1,0 +1,180 @@
+
+body {
+	margin: 10px 270px;
+	width: 1400px;
+}
+
+a {
+	text-decoration: none;
+}
+
+#top-line {
+	margin-top: -8px;
+}
+
+#logo {
+	float: left;
+	margin-left: 150px;
+	margin-top: 12px;
+	
+}
+
+#menu ul li {
+	list-style-type: none;
+	float: left;
+	padding: 12px 30px;
+	font-family: Segoe UI;
+	font-size: 19px;
+
+}
+
+#menu ul li a {
+	display: block;
+	text-decoration: none;
+	color: #545454;
+}
+
+#menu ul li a:hover {
+	color: black;
+}
+
+
+#menu {
+	float: right;
+	margin-right: 193px;
+	margin-top: 12px;
+}
+
+
+#header {
+	overflow: hidden;
+}
+
+#wrapper {
+	overflow: hidden;
+	margin: 41px 160px;
+}
+
+#text-lorem {
+	margin-top: 41px;
+	margin-right: 53px;
+}
+
+#text-lorem p {
+	font-family: Segoe UI;
+	font-style: Italic;
+	font-size: 23px;
+	line-height: 36px;
+	color: #494848;
+}
+
+#text-lorem p span {
+	font-family: Segoe UI;
+	font-style: Italic;
+	font-weight: Bold;
+	font-size: 23px;
+	line-height: 36px;
+	color: #82699d;
+}
+
+#content-2 {
+	margin-top: 41px;
+	overflow: hidden;
+}
+
+#left-content {
+	float: left;
+}
+
+
+#right-content {
+	width: 600px;
+	float: right;
+	margin-right: 55px;
+	margin-top: 30px;
+}
+
+h1 {
+	font-family: Segoe UI;
+	font-size: 31px;
+	font-weight: Bold;
+	color: #505051;
+}
+
+#right-content p {
+	font-size: 15px;
+	font-family: Segoe UI;
+	color: #838383;
+}
+
+#read-more  {
+	text-align: right;
+	font-family: Segoe UI;
+	font-size: 13px;
+	font-style: Italic;
+	color: #838383;
+}
+
+#read-more a {
+	color: #838383;
+}
+
+#paragraph {
+	margin-top: 41px;
+}
+
+#par-tex p {
+	font-family: Segoe UI;
+	font-size: 23px;
+}
+
+#par-tex p span {
+	font-weight: Bold;
+}
+
+#reklam {
+	margin-top: 41px;
+	margin-right: 45px;
+	overflow: hidden;
+}
+
+#reklam_1 {
+	float: right;
+}
+
+#reklam_2 {
+	float: right;
+}
+
+#reklam_3 {
+	float: right;
+}
+
+#reklam_4 {
+	float: right;
+}
+
+#footer {
+	height: 67px;
+	background: url(../images/footer_bg.png) repeat-x;
+	overflow: hidden;
+	width: 1300px;
+}
+
+#copyright p {
+	padding-top: 10px;
+	padding-left: 163px;
+	width: 260px;
+	font-family: Segoe UI;
+	font-style: Light;
+	font-size: 15px;
+	color: #454242;
+	float: left;
+}
+
+#social img {
+	float: right;
+	padding-top: 12px;
+	padding-right: 100px;
+	float: right;
+}
